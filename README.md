@@ -92,7 +92,7 @@ The-ML-Blueprint/
 ## 🎯 Goals of This Repo  
 
 - Serve as a **learning journal** with professional-grade structure.  
-- Act as a **ready reference** for interviews & projects  
+- Act as a **ready reference** for interviews & projects.  
 - Inspire others by showing a **well-documented roadmap** to mastering ML.  
 
 ---
