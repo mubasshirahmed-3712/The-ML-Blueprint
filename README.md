@@ -14,7 +14,7 @@ Here, you’ll find the **perfect blend** — code, intuition, and business cont
 
 ```bash
 The-ML-Blueprint/
-├─ 1.Regression/        # Linear & Non-Linear Regression techniques
+├─ 1.Regression/        # Linear & Non-Linear Regression techniques.
 │  ├─ README.md
 │  ├─ 1.Linear/
 │  └─ 2.NonLinear/
